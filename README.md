@@ -1,5 +1,31 @@
 # 💫 About Me:
- Hey, I’m an MCA student & aspiring developer I’m currently pursuing my Master’s in Computer Application (MCA) at MIT World Peace University, Pune, focused on strengthening my core computer science fundamentals and building real-world applications through hands-on development. I completed my B.Sc. in Computer Science from K.K. Wagh College (SPPU), where I discovered my interest in building practical, problem-solving tech solutions — not just writing code that passes exams.<br><br>Academic Projects (B.Sc. Final Year)<br>1- Driving School Management System Web application built using PHP, HTML, CSS, JavaScript Manages student records, schedules, and fee payments<br><br>2- Hall Ticket Generation using QR Code<br><br>Secure hall ticket generation and verification system Implemented QR code–based validation using PHP<br><br>These projects helped me gain confidence in backend development, full-stack workflows, and building systems from scratch with real constraints.<br><br>Currently Learning<br>Data Analytics Modern Web Technologies JavaScript Frameworks Git & GitHub AI tools and applications<br><br>Basically: leveling up to be industry-ready, not tutorial-ready
+Hey, I’m an MCA student & aspiring developer 👋  
+I’m currently pursuing my **Master’s in Computer Applications (MCA)** at **MIT World Peace University, Pune**, where I focus on strengthening my core computer science fundamentals and building **real-world, production-minded applications** — not just code that passes exams.
+
+I completed my **B.Sc. in Computer Science with CGPA : 8.38** from **K.K. Wagh College (SPPU)**, where I discovered my interest in building **practical, problem-solving tech solutions** and understanding how systems actually work end-to-end.
+
+### 🎓 Academic Projects (B.Sc. Final Year)
+
+**1️⃣ Driving School Management System**  
+A full-stack **web application** built using **PHP, HTML, CSS, JavaScript, and MySQL**  
+- Managed student records, schedules, and fee payments  
+- Focused on usability, backend logic, and real data constraints  
+
+**2️⃣ Hall Ticket Generation using QR Code**  
+A **secure hall ticket generation & verification system**  
+- Implemented **QR code–based validation** using PHP  
+- Designed to prevent duplication and unauthorized access  
+
+These projects helped me gain confidence in **backend development, full-stack workflows, database handling, and building systems from scratch** under real constraints.
+
+### 📚 Currently Learning
+- Data Analytics (Python, Pandas, Matplotlib)  
+- Modern Web Technologies & JavaScript frameworks  
+- Git & GitHub (collaboration > just commits)  
+- AI tools and real-world applications  
+
+⚡ **Basically:** leveling up to be **industry-ready, not tutorial-ready**.
+
 
 
 ## 🌐 Socials:
