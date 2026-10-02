@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/header.svg" alt="Tanveer Singh - MCA student and aspiring ML engineer" width="100%"/>
+  <img src="assests/header.svg" alt="Tanveer Singh - MCA student and aspiring ML engineer" width="100%"/>
 
   <br/>
 
